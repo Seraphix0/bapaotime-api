@@ -1,4 +1,4 @@
 package com.bapaotime.models;
 
-public class Media {
+public abstract class Media {
 }
